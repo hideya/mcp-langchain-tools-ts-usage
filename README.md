@@ -2,7 +2,7 @@
 
 This simple MCP-client demonstrates
 [Model Context Protocol](https://modelcontextprotocol.io/) server invocations from
-LangChain ReAct Agent by wrapping MCP server tools into LangChain Tools.
+LangChain ReAct Agent by wrapping MCP server tools access into LangChain Tools.
 
 It leverages [`@h1deya/mcp-langchain-tools`](https://www.npmjs.com/package/@h1deya/mcp-langchain-tools) package,
 which initializes specified MCP servers,
